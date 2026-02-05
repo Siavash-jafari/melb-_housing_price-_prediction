@@ -1,6 +1,6 @@
 # House Price Prediction – Melbourne (Regression Models & Random Forest)
 
-This project predicts house prices using the Melbourne Housing Snapshot dataset and compares several regression models, including a Random Forest Regressor.
+This project predicts house prices using the Melbourne Housing Snapshot dataset and compares several models, including a Random Forest Regressor.
 
 ## Project Overview
 
