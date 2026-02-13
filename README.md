@@ -79,11 +79,10 @@ This improves the stability of Linear, Ridge, and Lasso regression. The Random F
 ### 5. Models Trained
 
 The notebook trains and evaluates **four regression models**:
-
-1. Linear Regression  
-2. Ridge Regression  
-3. Lasso Regression  
-4. Random Forest Regressor  
+  
+1. Ridge Regression  
+2. Lasso Regression  
+3. Random Forest Regressor  
 
 For each model:
 
@@ -94,8 +93,7 @@ For each model:
   - **RMSE** (root mean squared error)  
 
 Example results:
-
-- Linear Regression: R² ≈ 0.52, RMSE ≈ 437,000  
+ 
 - Ridge Regression:  R² ≈ 0.52, RMSE ≈ 437,000  
 - Lasso Regression:  R² ≈ 0.52, RMSE ≈ 437,000  
 - Random Forest: **R² ≈ 0.82, RMSE ≈ 265,000**  
